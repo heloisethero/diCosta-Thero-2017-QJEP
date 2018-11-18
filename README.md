@@ -1,0 +1,3 @@
+Here are the data and the analyses corresponding to the article "Try and try again: post-error boost of an implicit measure of agency" by Steven di Costa, Héloïse Théro, Valérian Chambon and Patrick Haggard, published in The Quarterly Journal of Experimental Psychology in 2017. 
+
+The data and scripts corresponding to the two experiments described in the paper can be found in the folders "Experiment1" and "Experiment2".
