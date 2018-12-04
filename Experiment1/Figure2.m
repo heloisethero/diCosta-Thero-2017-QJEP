@@ -2,15 +2,15 @@
 
 %% This part is computing the binding measures
 
-Action_Binding = NaN(500, 15, 4) ;
-Outcome_Binding = NaN(500, 15, 4) ;
+Action_Binding = NaN(500, 15, 2) ;
+Outcome_Binding = NaN(500, 15, 2) ;
 
 for participantIndex = 1:15
     
     load (['diCostaThero2017_Expe1_Participant', num2str(participantIndex)]); 
 
-    for trialIndex = 1 : length(M)
-        if M(trialIndex, 1) == 1 && trialIndex > 1 && M(trialIndex, 6) == M(trialIndex + 1 , 6) - 1
+    for trialIndex = 2 : length(M)
+        if M(trialIndex, 1) == 1 && M(trialIndex, 6) == M(trialIndex + 1 , 6) - 1
             Action_Binding(trialIndex, participantIndex, M(trialIndex - 1, 5) + 1) = M(trialIndex, 9) ;
 
         elseif M(trialIndex, 1) == 2
