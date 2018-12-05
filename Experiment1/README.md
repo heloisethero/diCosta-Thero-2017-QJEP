@@ -30,4 +30,4 @@ THE BEHAVIORAL ANALYSIS:
 
 The Figure2.m file will compute the mean outcome and action binding following a reward or no reward, then plot them to create the same figure as the Figure 2 in the article.
 
-The Figure4AExpe1.m file will compute the the participants' and the model's reversal curve, then plot them to create a part of the Figure 4 in the article (the left panel of Figure 4(a)).
+The Figure4AExpe1.m file will compute the participants' and the model's reversal curve, then plot them to create a part of the Figure 4 in the article (the left panel of Figure 4(a)).
