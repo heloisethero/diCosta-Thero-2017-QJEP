@@ -24,8 +24,10 @@ The different columns carry the corresponding information:
 
 - column 8: the action-outcome mapping. 0 indicates that in this trial, the right key is high-rewarding, while 0 indicates that the right key is low-rewarding.
 
-- column 9: intentional binding, measured as the difference between the timing shift reported when the key press was followed by a tone, and the the timing shift reported when the key was pressed without a following tone, or when the tone was heard on its own.
+- column 9: the intentional binding, measured as the difference between the timing shift reported when the key press was followed by a tone, and the the timing shift reported when the key was pressed without a following tone, or when the tone was heard on its own.
 
 THE BEHAVIORAL ANALYSIS:
 
 The Figure2.m file will compute the mean outcome and action binding following a reward or no reward, then plot them to create the same figure as the Figure 2 in the article.
+
+The Figure4AExpe1.m file will compute the the participants' and the model's reversal curve, then plot them to create a part of the Figure 4 in the article (the left panel of Figure 4(a)).
