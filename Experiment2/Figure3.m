@@ -1,8 +1,6 @@
 % This script is generating the Figure 3 of the article, plotting action binding from the second experiment.
 
 %% This part is computing the action binding measures
-clear all
-close all
 Action_Binding = NaN(300, 30, 4) ;
 
 for participantIndex = 1:30
