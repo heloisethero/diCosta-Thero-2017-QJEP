@@ -1,8 +1,8 @@
 Here are the data corresponding to the **Experiment 2**, and the scripts creating the **Figure 3**, and some parts of the **Figure 4** (4b and the right panel of 4a).
 
-### Description of the data:
+### Description of the data
 
-Each file whose name starts by "diCostaThero2017_Expe2_" contains a matrix M, which corresponds to one participant's data. There are 30 different matrices corresponding to the 30 participants in the Experiment 2.
+Each file whose name starts by `diCostaThero2017_Expe2_` contains a matrix M, which corresponds to one participant's data. There are 30 different matrices corresponding to the 30 participants in the Experiment 2.
 
 In the matrix M, each line corresponds to one trial. All the matrices have exactly 300 lines, as this experiment had a fixed number of trials.
 
@@ -23,7 +23,7 @@ The different columns carry the corresponding information:
 
 Please note that the data contain only to the *agency* blocks, and not the *baseline* blocks executed by the participants before and after the *agency* blocks, as it is described in the article.
 
-### The scripts to analyse the data:
+### The scripts to analyse the data
 
 - `Figure3.m`: this script computes the mean action binding following a high or low tone, then plot them to create the same figure as the Figure 3 in the article.
 
