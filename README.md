@@ -1,6 +1,6 @@
 ## Try and try again: post-error boost of an implicit measure of agency
 
-The repository contains the data and the matlab scripts corresponding to the article *Try and try again: post-error boost of an implicit measure of agency* by Steven di Costa, Héloïse Théro, Valérian Chambon and Patrick Haggard, published in The Quarterly Journal of Experimental Psychology in 2017. 
+This repository contains the data and the matlab scripts corresponding to the article *Try and try again: post-error boost of an implicit measure of agency* by Steven di Costa, Héloïse Théro, Valérian Chambon and Patrick Haggard, published in The Quarterly Journal of Experimental Psychology in 2017. 
 
 Here are the links to the article:
 * [editor version](https://journals.sagepub.com/doi/abs/10.1080/17470218.2017.1350871)
