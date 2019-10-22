@@ -1,4 +1,4 @@
-Here are the data corresponding to *Experiment 2*, and the scripts creating the **Figure 3**, and some parts of the **Figure 4** (4b and the right panel of 4a).
+Here are the data corresponding to the **Experiment 2**, and the scripts creating the **Figure 3**, and some parts of the **Figure 4** (4b and the right panel of 4a).
 
 ### Description of the data:
 
